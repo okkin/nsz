@@ -5,7 +5,7 @@
 pyenv activate nsz-env
 ```
 
-## 
+## Open the GUI
 ```bash
-
+nsz
 ```
